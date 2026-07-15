@@ -1,2 +1,2 @@
 # Bank-Account-Management-System
-Python basics project implementing a simple banking system with authentication and account operations.
+Python Bank Account Management System is a beginner-friendly console application built using Python. The project was developed to practice fundamental programming concepts such as functions, dictionaries, loops, conditionals, input validation, and modular programming. Users can create accounts, securely log in, perform banking operations (deposit, withdraw, and transfer funds), update account information, and view their latest transaction through an interactive command-line interface.
